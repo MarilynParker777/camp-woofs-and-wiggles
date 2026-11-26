@@ -1,0 +1,9 @@
+CAMP WOOFS & WIGGLES — INTERACTIVE SHOWCASE
+
+1. Extract this entire ZIP folder. Keep index.html and the website folder together.
+2. Open index.html in Edge or Chrome. Internet access is recommended to load the original Google Fonts, Bootstrap 5.3.8 and Bootstrap Icons.
+3. Scroll within each device and use the original navigation. Use Desktop / Mobile to enlarge one device; Reset to home restores both previews.
+4. To publish: upload the contents of this extracted folder to a static web host (e.g. GitHub Pages) and open the resulting website URL. Link to that URL from Adobe Portfolio. Add ?view=desktop or ?view=mobile for single-device links.
+5. Figma cannot import a functioning HTML site as a native prototype. For a Figma-only version, use the full-length screenshots and configure vertical scroll with clickable navigation hotspots. The HTML showcase is the live alternative.
+
+Original HTML, photography, logo, and custom CSS were used. Only external dependency fallback attributes were added to the website HTML copies. If the original CDN is unreachable, bundled Bootstrap 5.3.6 and simple social icon fallbacks are used; original Google fonts may be substituted by the browser. No backend is supplied for the contact form. The original attribution document and HTML attribution comments are included. Unused large PNG originals and nested source archive are omitted from this deployable package; retain your original ZIP separately.
