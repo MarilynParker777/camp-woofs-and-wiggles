@@ -1,0 +1,151 @@
+.nav-link:link {
+    font-family: "Grandstander", cursive;
+    color:#000000;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav-link:visited {
+    color:#000000;
+
+}
+
+.nav-link:hover {
+    color: #8b5e3c;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.bg-custom {
+    background-color: #9ca9b0;
+}
+
+.footer {
+    background-color: #9ca9b0;
+    color: #000000;
+    font-family: "Grandstander", cursive;
+}
+
+.bi {
+    color: #000000;
+}
+
+h4 {
+    font-weight:bold;
+    color: #000000;
+    font-size: 15px;
+}
+
+h3 {
+    font-family: 'Grandstander', cursive;
+    color: #000000;
+    font-size: 20px;
+}
+
+p {
+    font-family: 'Roboto', regular;
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Granstander', bold;
+    font-size: 40px;
+    font-weight: 500;
+    color: black;
+}
+
+h2 {
+    font-family: 'Granstander', bold;
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+
+.btn-custom {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Roboto', bold;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background: rgba(0, 0, 0, 0.35);
+    opacity: 1;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+}
+
+.contactinfo {
+    color: #8b5e3c;
+}
+
+.contactstyle {
+    font-family: 'Granstander', cursive; 
+    font-weight: bold;
+    color:#000000 
+}
+
+.form-label {
+    color: #8b5e3c;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.form-control {
+    background-color: #ecac58;
+}
+
+.hero-img {
+    width: 100%;
+    max-height: 420px;
+    object-fit: cover;
+    display: block;
+}
+
+.bg-soft-pink {
+    background-color: #fbd3df;
+}
+
+.bg-soft-gold {
+    background-color: #ecac58;
+}
+
+.service-img{
+  width: 100%;
+  height: 260px;        
+  object-fit: contain;  
+  display: block;
+  background-color: #ffffff; 
+}
+
+.service-text {
+  padding: 1.25rem;
+}
+
+.service-text-pink {
+  background-color: #fbd3df;
+}
+
+.service-text-gold {
+  background-color: #ecac58;
+}
+
+.service-text {
+  padding: 1.25rem;
+}
+
+.service-text-pink {
+  background-color: #fbd3df;
+}
+
+.service-text-gold {
+  background-color: #ecac58;
+}
